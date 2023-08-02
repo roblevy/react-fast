@@ -19,3 +19,4 @@ services:
       - "8080:8000"
     volumes:
       - ./backend:/app
+      - ./backend/tests:/app/tests

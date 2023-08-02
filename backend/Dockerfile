@@ -9,5 +9,6 @@ COPY . /app
 
 FROM base AS local
 
+ENV PYTHONDONTWRITEBYTECODE=1
 EXPOSE 8000
 CMD uvicorn main:app --reload --host 0.0.0.0
