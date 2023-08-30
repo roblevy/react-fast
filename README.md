@@ -1,6 +1,6 @@
 # React and FastAPI starter app
 
-Get going with a "full-stack" app with React on the front-end and FastAPI on the backend.
+Get going with a "full-stack" app with React on the front-end and FastAPI on the backend. Helpful for code tests and side projects.
 
 ## Getting started
 
